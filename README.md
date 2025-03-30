@@ -7,7 +7,8 @@
 
 [<img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/dandrevielma/" style="padding-right:10px;" />](https://www.linkedin.com/in/dandrevielma/)
 
-<button href="https://everloop.co">Everloop</button>
+[<img align="left" alt="Everloop" src="https://img.shields.io/badge/Everloop-FEC600?style=flat&labelColor=FEC600" style="padding-right:10px;" />](https://everloop.co)
+
 <br />
 
 ### Languages and Tools:
